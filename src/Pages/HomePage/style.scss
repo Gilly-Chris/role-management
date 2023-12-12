@@ -1,0 +1,16 @@
+
+.homepage {
+    margin-top: 80px;
+    .table-wrapper {
+        .view-btn {
+            color: white;
+            background-color: var(--primary);
+            padding: 5px 12px;
+            font-weight: 700;
+            max-width: fit-content;
+            max-width: max-content;
+            font-size: 14px;
+            cursor: pointer;
+        }
+    }
+}
